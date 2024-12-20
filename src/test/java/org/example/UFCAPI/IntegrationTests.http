@@ -1,0 +1,15 @@
+
+### @env=dev
+GET https://fightingtomatoes.com/API/{{API_KEY}}/any/any/Rampage%20Jackson
+
+<> 2024-12-20T122030.200.html
+<> 2024-12-20T120258.200.html
+
+###
+GET https://fightingtomatoes.com/API/{{API_KEY}}/2009/any/any
+
+<> 2024-12-20T120601.200.html
+<> 2024-12-20T120458.200.html
+
+###
+GET https://fightingtomatoes.com/API/{{API_KEY}}/2008/any/any
